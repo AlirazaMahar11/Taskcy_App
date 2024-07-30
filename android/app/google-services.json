@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759162822932",
+    "project_id": "hacathon-app-67cca",
+    "storage_bucket": "hacathon-app-67cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759162822932:android:4fb26c04ba4ee2a2aca201",
+        "android_client_info": {
+          "package_name": "com.hacathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBst-AIqA2VEJFXPt4BlUSKKaCDwOYQYDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
